@@ -66,7 +66,7 @@ If you'd like to collaborate or reference anything, feel free to raise an issue 
 Computer Science Engineering | Chandigarh University <br>
 🌍 LinkedIn : [@GeekyHim](https://www.linkedin.com/in/geekyhim/) <br>
 🔗 GitHub: [@GeekyHim](https://github.com/GeekyHim)   <br>
-📩 Email: geekyhimanshu@gmail.com <br>
+📩 Email: geekyhim@gmail.com <br>
 💻 Portfolio: [GeekyHim](https://geekyhim.netlify.app/) <br>
 
 ---
